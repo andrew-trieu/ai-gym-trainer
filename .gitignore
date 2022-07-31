@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+/training
+/PoseEstimationMin.py
+/PoseModule.py
+/PoseProject.py
+/test.py
